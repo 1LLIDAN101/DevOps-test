@@ -1,1 +1,2 @@
 GET /users
+POST /users
